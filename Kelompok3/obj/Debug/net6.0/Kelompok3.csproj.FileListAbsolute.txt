@@ -1,0 +1,15 @@
+E:\ProjekMetrodata\Kelompok3\Kelompok3\bin\Debug\net6.0\Kelompok3.exe
+E:\ProjekMetrodata\Kelompok3\Kelompok3\bin\Debug\net6.0\Kelompok3.deps.json
+E:\ProjekMetrodata\Kelompok3\Kelompok3\bin\Debug\net6.0\Kelompok3.runtimeconfig.json
+E:\ProjekMetrodata\Kelompok3\Kelompok3\bin\Debug\net6.0\Kelompok3.dll
+E:\ProjekMetrodata\Kelompok3\Kelompok3\bin\Debug\net6.0\Kelompok3.pdb
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.csproj.AssemblyReference.cache
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.AssemblyInfoInputs.cache
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.AssemblyInfo.cs
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.csproj.CoreCompileInputs.cache
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.dll
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\refint\Kelompok3.dll
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.pdb
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\Kelompok3.genruntimeconfig.cache
+E:\ProjekMetrodata\Kelompok3\Kelompok3\obj\Debug\net6.0\ref\Kelompok3.dll

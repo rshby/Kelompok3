@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kelompok3/1.0.0": {
+        "runtime": {
+          "Kelompok3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kelompok3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
